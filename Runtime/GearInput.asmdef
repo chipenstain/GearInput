@@ -1,0 +1,20 @@
+{
+    "name": "thehyenastudio.ginput",
+    "rootNamespace": "",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.textmeshpro",
+            "expression": "3",
+            "define": "TEXTMESHPRO_3_0_OR_NEWER"
+        }
+    ],
+    "noEngineReferences": false
+}

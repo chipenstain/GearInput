@@ -1,0 +1,60 @@
+{
+   "name":"com.theyenastudio.ginput",
+   "version":"0.0.1",
+   "displayName":"GearInput",
+   "description":"",
+   "unity":"2019.1",
+   "unityRelease":"0b5",
+   "documentationUrl":"",
+   "changelogUrl":"https://github.com/chipenstain/gearinput/changelog.md",
+   "license": "See LICENSE.md file",
+   "licensesUrl":"https://github.com/chipenstain/gearinput/LICENSE",
+   "keywords":[
+      "gearinput",
+      "ginput",
+      "sinput",
+      "input",
+      "wrapper",
+      "input wrapper"
+   ],
+   "author":{
+      "name":"The HYENA studio",
+      "email":"chipenstaindev@gmail.com"
+   },
+   "samples":
+   [{
+       "displayName": "1: Single Player",
+       "description": "<brief-description>",
+       "path": "Samples~/1_SinglePlayer"
+   },
+   {
+       "displayName": "2: Local Multiplayer",
+       "description": "<brief-description>",
+       "path": "Samples~/2_LocalMultiplayer"
+   },
+   {
+       "displayName": "3: Touch Controls",
+       "description": "<brief-description>",
+       "path": "Samples~/3_TouchControls"
+   },
+   {
+       "displayName": "4: Canvas UI",
+       "description": "<brief-description>",
+       "path": "Samples~/4_CanvasUI"
+   },
+   {
+       "displayName": "5: Custom UI",
+       "description": "<brief-description>",
+       "path": "Samples~/5_CustomUI"
+   },
+   {
+       "displayName": "6: Rebindings Classic",
+       "description": "<brief-description>",
+       "path": "Samples~/6_RebindingsClassic"
+   },
+   {
+       "displayName": "7: Rebindings Gen2",
+       "description": "<brief-description>",
+       "path": "Samples~/7_RebindingsGen2"
+   }]
+}
